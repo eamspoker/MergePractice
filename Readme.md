@@ -12,3 +12,6 @@ Clone sets the variable origin to represent the remote repository.
 The command git push --set-upstream changes what remote branch the current local branch
 is tracking.
 
+##Q3
+
+
