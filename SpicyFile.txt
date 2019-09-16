@@ -3,4 +3,5 @@
 ~~send help~~
 
 Now there's more text because I messed up the first time.
+### Let's make a merge conflict!
 ####### header that will make a merge conflict mwhahaha
