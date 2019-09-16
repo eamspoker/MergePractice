@@ -36,3 +36,12 @@ No, the command just added the data from master to my local.
 This is a merge because a rebase adds on branch data to the end of a 
 sequence and then deletes the branch, while our branch is still intact, 
 because the two different branches were preserved in version control history. 
+
+## Q6 
+
+The local master branch is still behind the remote master.
+
+## Q7
+
+No, the remote branch was removed without any effect on the local version
+ of JeremyBranch.
